@@ -17,7 +17,7 @@ This Python script is designed to generate a realistic synthetic dataset that si
 - **Years_With_Employer**: The number of years the individual has been with their current employer, with realistic distributions based on age.
 
 ### 3. Financial Variables:
-- **Income**: The individual's annual income, adjusted by education level, employment status, and region. Income is capped at a maximum of $400,000.
+- **Income**: The individual's annual income, adjusted by education level, employment status, and region. Income is capped at a maximum of $500,000.
 - **Existing_Debt**: The total existing debt of the individual, calculated as a percentage of their income.
 - **Credit_Card_Debt**: Specific debt related to credit card balances.
 - **Mortgage_Debt**: Debt related to home ownership, applicable only if the individual owns a home.
