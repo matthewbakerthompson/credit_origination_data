@@ -1,5 +1,11 @@
 # Enhanced Credit Risk Dataset Generation
 
+
+### **Author**: Matthew Thompson  
+### **Date**: 9.4.24  
+### **Contact**: [matthewbakerthompson@gmail.com](mailto:matthewbakerthompson@gmail.com)
+
+## **Overview**
 This Python script is designed to generate a realistic synthetic dataset that simulates the financial profiles of individuals, focusing on factors relevant to credit risk assessment. The dataset includes a variety of attributes that contribute to a comprehensive view of each individual's creditworthiness. The script utilizes the Faker library to generate personal information and realistic data distributions for financial variables, while also incorporating logic that reflects real-world credit risk modeling practices.
 
 ## Key Features and Variables
